@@ -1,3 +1,6 @@
+//Nome: Daniel Guimarães Faria - Sistemas de Informação
+//Matricula: 0050010533
+
 #include "stdio.h"
 #include "stdlib.h"
 
